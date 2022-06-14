@@ -1,5 +1,4 @@
 # Titanic
-Titanic Is a Malware That OverWrite The MBR
 ![image](titanic.jpg)
 
 # Result
